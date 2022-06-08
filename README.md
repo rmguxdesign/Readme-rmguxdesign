@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou Rubens Maciel Gomes, desenvolvedor de conteúdo digital e programação!
 
-<!--
-**rmguxdesign/rmguxdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje eu trabalho como Ui Design
+- 🌱 Atualmente estudando Html5, CSS, JavaScript, Python
+- 🤔 Hoje estou procurando ajuda com Python
+- 📫 Email para contato: rubens@rmgdesign.com.br
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidades: Tenho 57 anos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/rmguxdesign">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmguxdesign&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
